@@ -1,0 +1,16 @@
+img {
+    border: 8px solid black;
+    padding: 5px;
+    margin:10px;
+}
+
+ .about {
+    border: 8px dashed red;
+   
+}
+.country {
+    padding:5px;
+    display: flex;
+  justify-content: center;
+
+}
